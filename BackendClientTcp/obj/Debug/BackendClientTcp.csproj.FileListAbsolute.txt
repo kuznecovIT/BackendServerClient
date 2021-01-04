@@ -1,0 +1,6 @@
+C:\Users\Владислав\source\repos\BackendServer\BackendClientTcp\bin\Debug\BackendClientTcp.exe.config
+C:\Users\Владислав\source\repos\BackendServer\BackendClientTcp\bin\Debug\BackendClientTcp.exe
+C:\Users\Владислав\source\repos\BackendServer\BackendClientTcp\bin\Debug\BackendClientTcp.pdb
+C:\Users\Владислав\source\repos\BackendServer\BackendClientTcp\obj\Debug\BackendClientTcp.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\BackendServer\BackendClientTcp\obj\Debug\BackendClientTcp.exe
+C:\Users\Владислав\source\repos\BackendServer\BackendClientTcp\obj\Debug\BackendClientTcp.pdb
